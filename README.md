@@ -38,7 +38,7 @@ Let's say that you want to find a range of UFO sightings in CA, but you also wan
 
 2. Within the criteria options, choose the parameters for which you would like to filter your results and type your parameter into the box next to each of your selected criteria. Leave any criteria not relevant to your search blank. For example, if you would like to see triangle shaped UFO sightings in CA, type ca next to the "Enter a State" criteria and triangle into the "Enter a Shape" parameter. To see the filtered results, press "Enter" on your keyboard after you have filled all of the relevant boxes with the desired parameters. 
 
-![two_filters](https://user-images.githubusercontent.com/95589611/160310184-eb018429-3c45-4ee7-867b-cfef32e2f274.png)
+![two_criteria_up](https://user-images.githubusercontent.com/95589611/160312056-6312736c-c68a-4e08-8c04-6c0ab67ca59b.png)
 
 ### How to filter for a specific UFO sighting 
 
